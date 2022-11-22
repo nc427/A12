@@ -24,7 +24,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/nicko/WebstormProjects/A13",
+    "last_opened_file_path": "C:/Users/nicko/WebstormProjects/A12",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,6 +39,7 @@
       <updated>1667915505364</updated>
       <workItem from="1667915509573" duration="1215000" />
       <workItem from="1668694700123" duration="721000" />
+      <workItem from="1669120814157" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="upload files">
       <created>1667915951152</created>
@@ -54,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667916641120</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload files">
+      <created>1669121008812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669121008812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
