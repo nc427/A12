@@ -50,7 +50,7 @@
       <workItem from="1668694700123" duration="721000" />
       <workItem from="1669120814157" duration="210000" />
       <workItem from="1669121165271" duration="1207000" />
-      <workItem from="1669125409039" duration="998000" />
+      <workItem from="1669125409039" duration="1049000" />
     </task>
     <task id="LOCAL-00001" summary="upload files">
       <created>1667915951152</created>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669128352371</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="cookies test and style">
+      <created>1669128377429</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669128377429</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
