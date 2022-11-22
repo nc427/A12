@@ -1,0 +1,22 @@
+
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    width: 620px;
+}
+
+p{
+    text-align: center;
+    color: #6610f2;
+    width: 240px;
+}
+
+footer{
+    text-align: center;
+    color:black;
+    width: 240px;
+}
